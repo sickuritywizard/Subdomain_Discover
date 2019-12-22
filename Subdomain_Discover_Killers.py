@@ -1,5 +1,7 @@
-#!/usr/bin/python2
-
+'''
+A basic script to Discover Subdomains implemented with threading
+KILLER007
+'''
 import requests, optparse
 import threading
 
