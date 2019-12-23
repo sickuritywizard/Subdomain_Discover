@@ -5,6 +5,7 @@ Multi-Threaded Program to Discover Subdomains
 To download:
   
 git clone https://github.com/killeroo7/Subdomain_Discover.git
+
 python3 Subdomain_Discover_Killers.py --help
 
 Usage:
