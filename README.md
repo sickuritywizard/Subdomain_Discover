@@ -6,8 +6,11 @@ To download:
   
 git clone https://github.com/killeroo7/Subdomain_Discover.git
 
+python3 -m pip install requests
+
 python3 Subdomain_Discover_Killers.py --help
 
+------------------------------------------------------------------------------------
 Usage:
 Options:
 
@@ -19,6 +22,7 @@ Options:
   
   -w WORDLIST, --wordlist=WORDLIST  [-]Enter the wordlist to use [ignore for default]
 
+------------------------------------------------------------------------------------
 Examples:
 1.  python3 Subdomain_Discover_Killers.py -u google.com
 2.  python3 Subdomain_Discover_Killers.py -u google.com -t 4
